@@ -15,23 +15,21 @@ I also kept the address table pretty pragmatic by only including the street_no, 
 If you have any questions please feel free to reach out to me!
 
 The following criteria were graded:
+
 Basic points:
+
 - Create a GitHub Repository named: FE21_CR9_Name. Set it to private. Push the files into it and send the link through the learning management system (lms). See an example of a GitHub link below:
 https://github.com/JohnDoe/repositoryname.git.
 - Use the 4 steps for a database development process:
+
 1.	Define the purpose - Cloud diagram
 2.	The Entity model - ER diagram
 3.	The Unified Modeling Language - Classes Diagram
 4.	Refine and Normalize the Design
+
 - Recreate your database design in MySQL. Name your database as cr9_famazon_johndoe (use your name instead of "johndoe"). The name must be as the task requests. Export your database as cr9_famazon_johndoe.sql and then upload the .sql file with the project to GitHub. Please remember to use the option “add create database” in the custom options.  
 - Insert test data into the database (insert some dummy data in your database, at least 3 sets of data per table)
-
-- Create at least 6 different SQL queries to show the power of your database (save these queries to a  cr9_famazon_johndoe_queries.sql file and upload it to the project) Note: The use of JOINS is required for at least three queries). Examples of queries: 
-1.  how many products were bought from a specific company
-2.  who purchased products on this date
-3.  what products were sent between this and that date, 
-4.  how many products were sent to a specific city etc. 
-
+- Create at least 6 different SQL queries to show the power of your database (save these queries to a  cr9_famazon_johndoe_queries.sql file and upload it to the project) Note: The use of JOINS is required for at least three queries). Examples of queries: how many products were bought from a specific company, who purchased products on this date, what products were sent between this and that date, how many products were sent to a specific city etc. 
 
 **Bonus points:**
 - Expand initial specification with more than 10 tables
